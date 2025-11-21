@@ -1,0 +1,1 @@
+Q1, Q2, Q3 all ran seperately for 15x +10ms then 15x -10ms
